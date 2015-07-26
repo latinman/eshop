@@ -47,6 +47,17 @@ ul.navbar-right {
   font-size: 18px;
 }
 
+.button-nav {
+  display: inline-block;
+  font-size: 18px;
+  background: #e67e22;
+  color: #fff;
+  &:hover {
+    background: #cf6d17;
+    color: #fff;
+  }
+}
+
 
 // LOGO //
 
